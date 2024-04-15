@@ -63,5 +63,10 @@ strike{
 body{
     background-color: rgb(86, 121, 151);
 }
-
-
+.contact-address:hover, .contact-phone:hover,.contact-email:hover{
+    background-color:whitesmoke ;
+   
+}
+.contact-address img:hover, .contact-phone img:hover,.contact-email img:hover{
+    transform: scale3d(1.2,1.2,1.2);
+}
